@@ -4,4 +4,5 @@
 - 🌍 Portugal 🇵🇹 , Coimbra
 - ✨ There's a repository for all the courses that I've taken in university
 - 🔭 I’m currently not working on any personal projects only university stuff :) 
-- ⚡ Fun fact: 20yo Gamer
+- ⚡ Fun fact: 21yo Gamer
+- 📧 How to reach me: tomas.b.mendes7@gmail.com
