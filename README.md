@@ -3,8 +3,10 @@
 - 💻 Bachelor's degree in Computer Science - Universidade de Coimbra
 - 🌍 Portugal 🇵🇹 , Coimbra
 - ✨ There's a repository for all the courses that I've taken in university
+- ✨ More repositories on [GitLab](https://gitlab.com/tomasbm07)
 - 🔭 Currently working as Python backend developer
 - ⚡ Fun fact: 21yo Gamer
+
 
 ## Tech Toolbox
 
