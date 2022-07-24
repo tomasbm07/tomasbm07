@@ -5,7 +5,7 @@
 - ✨ There's a repository for all the courses that I've taken in university
 - ✨ More repositories on [GitLab](https://gitlab.com/tomasbm07)
 - 🔭 Currently working as a Junior Back End Developer
-- ⚡ Fun fact: 21yo Gamer
+- 🎮 Interests: gaming, electric cars, bicycles
 
 
 ## Tech Toolbox
