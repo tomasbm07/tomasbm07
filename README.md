@@ -1,5 +1,6 @@
 # Hello there! 👋
 
+- 💻 (Currently) Master's degree in Software Engineering - Universidade de Coimbra
 - 💻 Bachelor's degree in Computer Science - Universidade de Coimbra
 - 🌍 Portugal 🇵🇹 , Coimbra
 - ✨ There's a repository for all the courses that I've taken in university
