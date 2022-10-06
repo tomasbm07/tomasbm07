@@ -56,3 +56,7 @@
    <a href="https://www.linkedin.com/in/tomasbm07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://stackoverflow.com/users/15090485/tom%c3%a1s-mendes?tab=topactivity" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
+
+ 
+ [![](https://visitcount.itsvg.in/api?id=tomasbm07&icon=0&color=12)](https://visitcount.itsvg.in)
+ 
