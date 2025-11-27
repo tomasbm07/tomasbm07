@@ -2,11 +2,11 @@
 
 - 💻 Master's degree in Software Engineering - Universidade de Coimbra
 - 💻 Bachelor's degree in Computer Science - Universidade de Coimbra
-- 🌍 Portugal 🇵🇹 , Coimbra
+- 🌍 🇵🇹 Portugal, Coimbra
 - ✨ There's a repository for all the courses that I've taken in university
 - ✨ More repositories on [GitLab](https://gitlab.com/tomasbm07)
-- 🔭 Currently working as a Junior Back End Developer
-- 🎮 Interests: gaming, electric mobility, cars
+- 🔭 Currently working as a Senior Back End Engineer
+- 🎮 Interests/Hobbies: Cycling/MTB, Gaming, Traveling, Electric Mobility, Cars
 
 
 ## Tech Toolbox
